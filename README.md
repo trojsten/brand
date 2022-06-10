@@ -42,3 +42,16 @@ Fonty:
 
 ## KSP
 
+### Logo
+
+KSP má dva varianty loga: zelené a čiernobiele. Preferujeme použitie zeleného.
+
+![Použitie KSP loga](_examples/ksp-logo.png)
+
+Grafické súbory: [SVG](ksp/logo)
+
+### Farby
+
+| Náhľad                           | Názov                | HEX     | Pantone |
+|----------------------------------|----------------------|---------|---------|
+| ![zelená](_examples/green.png)   | KSP zelená           | #818F3D | 7737 C  |
