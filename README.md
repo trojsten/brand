@@ -23,11 +23,11 @@ Grafické súbory: [SVG](trojsten/icon)
 
 ### Farby
 
-| Náhľad                          | Názov                | HEX     | Pantone |
-|---------------------------------|----------------------|---------|---------|
-| [modrá](_examples/blue.png)     | Trojsten modrá       | #1077C1 | 7461 C  |
-| [modrá](_examples/white.png)    | biela                | #FFFFFF |         |
-| [modrá](_examples/black.png)    | čierna               | #000000 |         |
+| Náhľad                           | Názov                | HEX     | Pantone |
+|----------------------------------|----------------------|---------|---------|
+| ![modrá](_examples/blue.png)     | Trojsten modrá       | #1077C1 | 7461 C  |
+| ![biela](_examples/white.png)    | biela                | #FFFFFF |         |
+| ![čierna](_examples/black.png)   | čierna               | #000000 |         |
 
 ### Typografia
 
@@ -41,3 +41,4 @@ Fonty:
 - [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
 
 ## KSP
+
