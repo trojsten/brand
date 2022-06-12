@@ -60,7 +60,7 @@ Grafické súbory: [SVG](ksp/logo)
 
 ### Logo
 
-KMS má tria varianty loga: modré, biele a čierne. Podobne, ako pri Trojstene:
+KMS má tri varianty loga: modré, biele a čierne. Podobne, ako pri Trojstene:
 Ak je to možné, preferujeme použitie modrého loga. Modré logo **neumiestňujeme**
 na farebné pozadia.
 
@@ -73,3 +73,21 @@ Grafické súbory: [SVG](kms/logo)
 | Náhľad                             | Názov                | HEX     | Pantone |
 |------------------------------------|----------------------|---------|---------|
 | ![modrá](_examples/kms-blue.png)   | KMS modrá            | #5F7DE4 | 2718 C  |
+
+## FKS
+
+### Logo
+
+FKS má tri varianty loga: oranžové, biele a čierne. Podobne, ako pri Trojstene:
+Ak je to možné, preferujeme použitie oranžového loga. Oranžové logo **neumiestňujeme**
+na farebné pozadia.
+
+![Použitie FKS loga](_examples/fks-logo.png)
+
+Grafické súbory: [SVG](fks/logo)
+
+### Farby
+
+| Náhľad                                | Názov                | HEX     | Pantone |
+|---------------------------------------|----------------------|---------|---------|
+| ![oranžová](_examples/fks-orange.png) | FKS oranžová         | #E39F3C | 715 C   |
