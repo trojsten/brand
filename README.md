@@ -91,3 +91,19 @@ Grafické súbory: [SVG](fks/logo)
 | Náhľad                                | Názov                | HEX     | Pantone |
 |---------------------------------------|----------------------|---------|---------|
 | ![oranžová](_examples/fks-orange.png) | FKS oranžová         | #E39F3C | 715 C   |
+
+## Suši
+
+### Logo
+
+Suši má dva varianty loga: farebné a čiernobiele. Preferuje sa použitie farebného loga.S
+
+![Použitie FKS loga](_examples/susi-logo.png)
+
+Grafické súbory: [SVG](susi/logo)
+
+### Farby
+
+| Náhľad                                | Názov                | HEX     | Pantone |
+|---------------------------------------|----------------------|---------|---------|
+| ![červená](_examples/susi-red.png)    | Suši červená         | #E39F3C | 715 C   |
