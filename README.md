@@ -52,6 +52,24 @@ Grafické súbory: [SVG](ksp/logo)
 
 ### Farby
 
-| Náhľad                           | Názov                | HEX     | Pantone |
-|----------------------------------|----------------------|---------|---------|
-| ![zelená](_examples/green.png)   | KSP zelená           | #818F3D | 7737 C  |
+| Náhľad                             | Názov                | HEX     | Pantone |
+|------------------------------------|----------------------|---------|---------|
+| ![zelená](_examples/ksp-green.png) | KSP zelená           | #818F3D | 7737 C  |
+
+## KMS
+
+### Logo
+
+KMS má tria varianty loga: modré, biele a čierne. Podobne, ako pri Trojstene:
+Ak je to možné, preferujeme použitie modrého loga. Modré logo **neumiestňujeme**
+na farebné pozadia.
+
+![Použitie KMS loga](_examples/kms-logo.png)
+
+Grafické súbory: [SVG](kms/logo)
+
+### Farby
+
+| Náhľad                             | Názov                | HEX     | Pantone |
+|------------------------------------|----------------------|---------|---------|
+| ![modrá](_examples/kms-blue.png)   | KMS modrá            | #5F7DE4 | 2718 C  |
