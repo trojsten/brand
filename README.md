@@ -106,4 +106,4 @@ Grafické súbory: [SVG](susi/logo)
 
 | Náhľad                                | Názov                | HEX     | Pantone |
 |---------------------------------------|----------------------|---------|---------|
-| ![červená](_examples/susi-red.png)    | Suši červená         | #E39F3C | 715 C   |
+| ![červená](_examples/susi-red.png)    | Suši červená         | #CD3C37 | 180 C   |
