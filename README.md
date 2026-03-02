@@ -72,7 +72,7 @@ Grafické súbory: [SVG](kms/logo)
 
 | Náhľad                               | Názov                | HEX     | Pantone |
 |--------------------------------------|----------------------|---------|---------|
-| ![fialová](_examples/kms-violet.png) | KMS fialová          | #8C3BE3 | 2655 C  |
+| ![fialová](_examples/kms-violet.png) | KMS fialová          | #8C3BE3 | 266 C   |
 
 ## FKS
 
